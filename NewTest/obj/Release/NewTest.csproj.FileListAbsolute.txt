@@ -1,0 +1,16 @@
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\bin\Release\NewTest.exe.config
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\bin\Release\NewTest.exe
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\bin\Release\NewTest.pdb
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Release\NewTest.csproj.AssemblyReference.cache
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Release\NewTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Release\Interop.Kompas6API2D5COM.dll
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Release\Interop.Kompas6API3D5COM.dll
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Release\Interop.Kompas6API5.dll
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Release\Interop.Kompas6Constants.dll
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Release\Interop.Kompas6Constants3D.dll
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Release\Interop.KompasAPI7.dll
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Release\Interop.Pdf2d_LIBRARY.dll
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Release\NewTest.csproj.ResolveComReference.cache
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Release\NewTest.csproj.CoreCompileInputs.cache
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Release\NewTest.exe
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Release\NewTest.pdb

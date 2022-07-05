@@ -1,0 +1,45 @@
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\bin\Debug\NewTest.exe.config
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\bin\Debug\NewTest.exe
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\bin\Debug\NewTest.pdb
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\obj\Debug\NewTest.csproj.AssemblyReference.cache
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\obj\Debug\Interop.Kompas6API2D5COM.dll
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\obj\Debug\Interop.Kompas6API3D5COM.dll
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\obj\Debug\Interop.Kompas6API5.dll
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\obj\Debug\Interop.Kompas6Constants.dll
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\obj\Debug\Interop.Kompas6Constants3D.dll
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\obj\Debug\Interop.KompasAPI7.dll
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\obj\Debug\NewTest.csproj.ResolveComReference.cache
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\obj\Debug\NewTest.csproj.CoreCompileInputs.cache
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\obj\Debug\NewTest.exe
+D:\Шамиль\KompasC#\NewTest\NewTest\NewTest\obj\Debug\NewTest.pdb
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\obj\Debug\NewTest.csproj.AssemblyReference.cache
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\obj\Debug\NewTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\obj\Debug\Interop.Kompas6API2D5COM.dll
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\obj\Debug\Interop.Kompas6API3D5COM.dll
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\obj\Debug\Interop.Kompas6API5.dll
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\obj\Debug\Interop.Kompas6Constants.dll
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\obj\Debug\Interop.Kompas6Constants3D.dll
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\obj\Debug\Interop.KompasAPI7.dll
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\obj\Debug\NewTest.csproj.ResolveComReference.cache
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\obj\Debug\NewTest.csproj.CoreCompileInputs.cache
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\obj\Debug\NewTest.exe
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\obj\Debug\NewTest.pdb
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\bin\Debug\NewTest.exe.config
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\bin\Debug\NewTest.exe
+C:\Users\Имандинов Шамиль\Desktop\NewTest\NewTest\NewTest\bin\Debug\NewTest.pdb
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Debug\NewTest.csproj.AssemblyReference.cache
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Debug\NewTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Debug\Interop.Kompas6API2D5COM.dll
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Debug\Interop.Kompas6API3D5COM.dll
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Debug\Interop.Kompas6API5.dll
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Debug\Interop.Kompas6Constants.dll
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Debug\Interop.Kompas6Constants3D.dll
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Debug\Interop.KompasAPI7.dll
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Debug\NewTest.csproj.ResolveComReference.cache
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Debug\NewTest.csproj.CoreCompileInputs.cache
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Debug\NewTest.exe
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Debug\NewTest.pdb
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\bin\Debug\NewTest.exe.config
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\bin\Debug\NewTest.exe
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\bin\Debug\NewTest.pdb
+C:\Users\Имандинов Шамиль\Desktop\AutoStampPDF\NewTest\NewTest\obj\Debug\Interop.Pdf2d_LIBRARY.dll
