@@ -240,11 +240,18 @@ namespace NewTest
             if (ofd.ShowDialog() == DialogResult.OK)
             {
                 Console.WriteLine($"Выбрана папка: {ofd.SelectedPath}");
-                Console.Write("Введите текст, который хотите отобразить в штампе (если нужны пустые поля нажмите ENTER): ");
+                Console.Write("Введите текст, который хотите отобразить в штампе (если нужны пустые поля, нажмите ENTER): ");
                 string columnText = Console.ReadLine();
                 if (columnText=="")
                 {
                        columnText =" ";
+                }
+
+                Console.Write("Введите текст, который хотите отобразить в штампе организации (если нужны пустые поля нажмите ENTER): ");
+                string columnTextOrg = Console.ReadLine();
+                if (columnTextOrg=="")
+                {
+                       columnTextOrg = columnText;
                 }
 
                 string[] curDir = Directory.GetFiles(ofd.SelectedPath,"*.cdw"); // получаем путь до папки
@@ -267,7 +274,7 @@ namespace NewTest
 
                         getStamp(IDocument2D, _kompas, i, columnText);
                     }
-                    getStampSecond(IDocument2D, _kompas, columnText);
+                    getStampSecond(IDocument2D, _kompas, columnTextOrg);
                     
                     //Если флаг активен, то конвертируем в pdf
                     if (convFlag)
