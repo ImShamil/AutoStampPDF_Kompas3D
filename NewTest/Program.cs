@@ -169,7 +169,7 @@ namespace NewTest
             }
         }
 
-        [STAThread]
+        [STAThread] // надо чтобы работало окно выбора директории
         static void Main(string[] args)
         {
             //Нормально работающий пример с запуском Компаса с exe
